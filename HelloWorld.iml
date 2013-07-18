@@ -40,6 +40,7 @@
       <library name="Grails User Library (HelloWorld)">
         <CLASSES>
           <root url="file://$MODULE_DIR$/lib" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.eclipse.jdt.core.compiler/ecj/jars/ecj-3.7.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -47,6 +48,7 @@
       </library>
     </orderEntry>
     <orderEntry type="library" exported="" name="grails-2.2.3" level="application" />
+    <orderEntry type="module" module-name="HelloWorld-grailsPlugins" />
   </component>
 </module>
 
