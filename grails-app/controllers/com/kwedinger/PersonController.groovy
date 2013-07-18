@@ -1,6 +1,5 @@
 package com.kwedinger
 
-import grails.converters.JSON
 import org.springframework.dao.DataIntegrityViolationException
 
 class PersonController {
