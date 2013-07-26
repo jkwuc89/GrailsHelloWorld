@@ -67,6 +67,8 @@ environments {
         grails.logging.jul.usebridge = false
         // TODO: grails.serverURL = "http://www.changeme.com"
     }
+    productionLocal {
+    }
 }
 
 // log4j configuration
