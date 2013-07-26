@@ -34,7 +34,7 @@
       <excludeFolder url="file://$MODULE_DIR$/target/classes" />
       <excludeFolder url="file://$MODULE_DIR$/target/test-classes" />
     </content>
-    <orderEntry type="jdk" jdkName="Oracle JDK 1.7_40" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="Oracle JDK 1.7_25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library" exported="">
       <library name="Grails User Library (HelloWorld)">
